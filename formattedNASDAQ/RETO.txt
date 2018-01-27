@@ -1,1 +1,0 @@
-{"Monthly Adjusted Time Series": {"2017-12": {"3. low": "8.4200", "1. open": "10.0600", "2. high": "10.6450", "4. close": "8.5600", "6. volume": "223389", "5. adjusted close": "8.5600", "7. dividend amount": "0.0000"}}}
