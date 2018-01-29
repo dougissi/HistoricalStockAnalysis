@@ -18,7 +18,7 @@ Output:
 There are two main outputs: the printed output of the program in the Terminal and four JSON files for analysis in Tableau.
 
   Printed Output:
-  There are three sections of the output
+  There are three sections of the output, printed one above the other in the order described below.
   1. The visual representation of what is going on in an example theory. Adjust constants in the "Main Program" section of the script to print out the results of another individual theory
   2. The ranked results of the history based theories. In the various columns you'll find the theory (e.g. "(36, 12)" which means 3 year history length and 1 year future length), then either the overall growth or monthly average growth (or both), the average number of months that this theory was implemented over (seeing as some theories can't be implemented as often based on the limitation of the 20 year dataset and the 4 year subset focus), and then finally the number of stocks in the portfolio
   3. The ranked results of the randomly selected theories. The columns have the same format as history-based performances described above.
