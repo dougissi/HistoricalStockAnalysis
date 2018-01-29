@@ -8,13 +8,9 @@ Stock data pulled from Alpha Vantage in November 2017
 To run the script:
 
 1.Download 'historicalstockanalysis.py', 'NASDAQ.txt', and 'formattedNASDAQ.zip'. 
-
 2. Make sure all in the same directory. 
-
 3. Unzip formattedNASDAQ.zip. This creates a folder in the directory with all of the stock data (functionally my database).
-
 4. From Terminal, navigate to the directory using the 'cd' command, then enter (without the "") "python ./historicalstockanalysis.py"
-
 5. Be sure to expand the Terminal window to be able to view the output in a clean manner
 
 
